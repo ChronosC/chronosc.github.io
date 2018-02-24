@@ -14,7 +14,7 @@ Java中的`HashMap`将两者结合在一起，发挥各自的优点，使得`Has
 
 ![Image](https://chronosc.github.io/images/java-hash-map.png)
 
-`HashMap`中定义了一个数组`table`，即为上图0-N的数据结构，数据类型为上图中的`ENTRY`
+`HashMap`中定义了一个数组`table`，即为上图0-N的数据结构，数据类型为上图中的`NODE`
 ```
     /**
      * The table, initialized on first use, and resized as
