@@ -1,5 +1,8 @@
 # JAVA内存模型 - `JAVA MEMORY MODEL`
 
+![Image](https://chronosc.github.io/images/java-memory-model.png)
+
+
 ## 堆(Heap Space)
 
 所有new出来的对象内存都分配在堆中，堆被分成年轻代`YongGeneration`和老年代`OldGeneration`,新生代又分成`Eden`和两个`Survivor`区。
