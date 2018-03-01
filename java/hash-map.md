@@ -10,7 +10,7 @@ Java中的`HashMap`将两者结合在一起，发挥各自的优点，使得`Has
 
 # 数据结构
 
-先看图：
+如下图：
 
 ![Image](https://chronosc.github.io/images/java-hash-map.png)
 
